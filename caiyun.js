@@ -1,11 +1,4 @@
-/*
- * @Author: yanyuwangluo 1915241107@qq.com
- * @Date: 2023-10-31 20:31:04
- * @LastEditors: yanyuwangluo 1915241107@qq.com
- * @LastEditTime: 2023-10-31 20:33:33
- * @FilePath: \青龙shell\caiyun.js
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
+
 /*************************************
 
 项目名称：彩云天气-净化/SVIP
@@ -15,7 +8,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/(biz|wrapper)\.cyapi\.cn\/(.+\/(user.+|visitors|activity)|p\/v\d\/vip_info) url script-response-body https://raw.githubusercontent.com/Boughtlike/quantumultx/main/rewrite/caiyun.js
+^https?:\/\/(biz|wrapper)\.cyapi\.cn\/(.+\/(user.+|visitors|activity)|p\/v\d\/vip_info) url script-response-body https://raw.githubusercontent.com/yanyuwangluo/yanyuwangluo/main/caiyun.js
 ^http:\/\/adx\.sogaha\.cn\/sdk\/ad\/get url reject-200
 
 [mitm]
