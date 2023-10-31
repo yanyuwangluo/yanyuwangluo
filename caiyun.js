@@ -1,7 +1,15 @@
-
+/*
+ * @Author: yanyuwangluo 1915241107@qq.com
+ * @Date: 2023-10-31 20:31:04
+ * @LastEditors: yanyuwangluo 1915241107@qq.com
+ * @LastEditTime: 2023-10-31 20:33:33
+ * @FilePath: \青龙shell\caiyun.js
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 /*************************************
 
 项目名称：彩云天气-净化/SVIP
+脚本作者：佚名
 使用声明：⚠️仅供参考，🈲售卖！
 
 **************************************
@@ -71,7 +79,7 @@ urls.forEach(url => {
           vip_type: "s",
           name: "烟雨",
           avatar: "https://tu.yanyuwangluo.cn/2021/12/21/fe0632cfd5b47.png",
-          token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJ1c2VyX2lkIjoiNWY1YmZjNTdkMmM2ODkwMDE0ZTI2YmI4Iiwic3ZpcF9leHBpcmVkX2F0IjoxNzA1MzMxMTY2LjQxNjc3MSwidmlwX2V4cGlyZWRfYXQiOjB9.h_Cem89QarTXxVX9Z_Wt-Mak6ZHAjAJqgv3hEY6wpps"
+          token: "eyJkYXRhIjoiYTM1YjlkNTkwZWY3NGI4YzFkM2Q1YzE4MGVjNDdlZjAxZGJhZjc3NjU1OTkzMzUzYTM3OWY4YWVkMTgzY2IxNTMwODRjZTk1NDkzY2FiMWRkOWJjNDRiNTc0MjQwYWNjMWNlM2NlNjU3NTkyODZhZWQ4YTkyNmY4YjdiNjZmMmM5ZDg1OWY1MzUzNmVjNmQ5MjEwODg4MzIyZmRlMDE0NmZlMDgwY2U2YWEwMWNjNzc0OWEwZDgwZWU4MTI4YWEyNGI3ZDg2MTEzM2Q3Nzc4ZWMyMWZlNjliMTdiMjY2MTRkYzEzNGVjMjMyZmYzMmU2MWMwNmY1M2ZkZGYzMzIxM2I2YjRjNzg4NGQzZWY0YWFlY2JhOTcwMTk0OTgxYTVmMDI1YjM0NDJiNGM3MzNkYmMwMDIyZjYyZDc3YzQ1YjVhNzBlMWVkOGQxMDM1Yzg4Mzc4ZTEzNjAzNDMwZDYwNDg1MDk4NTY5MTM2N2U5MmM0Y2VmNWJkNTc4ZjFjYzY2YWY1OTljNjE2MTE1OTVkMDdhNjgxOTA5YWEwZmEzOWM5N2M1N2VlNzdkZDlhMjQyOGZkZjUyM2VmNWQ1YjU1YWU2ZGU1N2I5Zjg2YmJjMDQ1ZjgxMTI1MTRiMGYxZmMyMTE0NmFhOGUyZTRkMDBjMTRjNmQzMzFlMDcyYjc3MmRkMTAyZTdkNzIwNWQ2NGQ5YjQ0NDM3MmVhYzI3NjRiNmY1NTljZGViNzY2OTY1Mzc0NWExNGI4YTc1ZDU2NzcwMTY4Y2EwZmI1YWJjMjFkZGFjMWE4YzQzMzAzMDFjOGYyNjEzOTBjZjcxNDc1YmY4ZjViYTlhZmUwYzYzZTVhOTgyMDgzZWJjZWRhMTA4ZmYyMDA0Y2ZkNWVhMTRiMTJlMzZjOWFhMWUyY2NhNGZkNGI5ZGZiMTA1ZDkwMjAxMmU2YTI1OTcwNTAwOTdlZjBjNDZjOWNhYzA5Zjc1ODVjNyIsImtleV9pZCI6MTh9"
         }
         break;
     }
