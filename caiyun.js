@@ -1,15 +1,7 @@
-/*
- * @Author: yanyuwangluo 1915241107@qq.com
- * @Date: 2023-10-31 20:31:04
- * @LastEditors: yanyuwangluo 1915241107@qq.com
- * @LastEditTime: 2023-10-31 20:33:33
- * @FilePath: \青龙shell\caiyun.js
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
+
 /*************************************
 
 项目名称：彩云天气-净化/SVIP
-脚本作者：佚名
 使用声明：⚠️仅供参考，🈲售卖！
 
 **************************************
